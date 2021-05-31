@@ -3,6 +3,9 @@
 // controlla che sia nella lista di chi può accedere,
 // stampa un messaggio appropriato sull’esito del controllo.
 
+// chiedo email all'utente
+var userEmail = prompt('Inserisci la tua e-mail')
+console.log(userEmail);
 
 // Lista Cognomi:
 // chiedi all’utente il cognome
